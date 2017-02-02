@@ -1,0 +1,19 @@
+{
+  "name": "nonnon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/y-tsutsu/nonnon.git"
+  },
+  "author": "y-tsutsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-tsutsu/nonnon/issues"
+  },
+  "homepage": "https://github.com/y-tsutsu/nonnon#readme"
+}
