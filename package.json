@@ -1,7 +1,7 @@
 {
   "name": "nonnon",
   "version": "1.0.0",
-  "description": "",
+  "description": "nonnon video player",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/y-tsutsu/nonnon/issues"
   },
-  "homepage": "https://github.com/y-tsutsu/nonnon#readme"
+  "homepage": "https://github.com/y-tsutsu/nonnon#readme",
+  "devDependencies": {
+    "@types/electron": "^1.4.31",
+    "typescript": "^2.1.5"
+  }
 }
